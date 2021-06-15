@@ -1,12 +1,12 @@
-<style>
-
  h2 {
-   color: MidnightBlue;
-   border-style: solid;
-   border-color: MidnightBlue;
-   border-width: 2px;
-   text-align: center;
-   font-size: 50px;
+  text-align: center;
+  border-style: solid;
+  border-width: 2px;
+  border-color: MidnightBlue;
+  margin-bottom: 50px;
+  margin-right: 150px;
+  margin-left: 150px;
+  font-size: 50px;
 }
 
  h4 {

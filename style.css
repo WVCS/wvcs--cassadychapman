@@ -9,6 +9,10 @@
   font-size: 50px;
 }
 
+h1 {
+ text-align: center;
+}
+
  h4 {
    color: DarkSlateBlue;
    text-align: left;
